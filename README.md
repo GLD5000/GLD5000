@@ -3,7 +3,7 @@
 
 
 
-### I make accessible, open source tools for developers
+### I build websites and make accessible, open source tools for developers
 
 
 
