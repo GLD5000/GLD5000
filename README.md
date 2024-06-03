@@ -7,5 +7,3 @@
 
 # Check out my Portfolio Projects
 # [GLD Portfolio](https://gld-portfolio.vercel.app/)
-
-![GitHub Ranking](https://github-readme-stats-lovat-omega-83.vercel.app/api?theme=apprentice&username=GLD5000&show_icons=true&include_all_commits=true)
