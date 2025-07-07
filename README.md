@@ -1,4 +1,4 @@
-# Hi, I'm Gareth
+# Hi, I'm Gareth :)
 ## I build accessible websites and make, open source tools for developers
 
 ## Check out my Portfolio Projects
