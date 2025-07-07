@@ -7,4 +7,4 @@
 # [GLD NPM](https://www.npmjs.com/~gld5000/)
 
 # Check out my Repos
-# [GLD Portfolio](https://github.com/GLD5000?tab=repositories)
+# [GLD Repositories](https://github.com/GLD5000?tab=repositories)
