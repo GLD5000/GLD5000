@@ -4,7 +4,7 @@
 # [GLD Portfolio](https://gld-portfolio.vercel.app/)
 
 # Check out my NPM Packages
-# [GLD NPM]([https://gld-portfolio.vercel.app/](https://www.npmjs.com/~gld5000))
+# [GLD NPM]([https://gld-portfolio.vercel.app/](https://www.npmjs.com/~gld5000/)
 
 # Check out my Repos
-# [GLD Portfolio]([https://gld-portfolio.vercel.app/](https://github.com/GLD5000?tab=repositories))
+# [GLD Portfolio]([https://gld-portfolio.vercel.app/](https://github.com/GLD5000?tab=repositories)
