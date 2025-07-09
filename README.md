@@ -1,5 +1,5 @@
 # Hi, I'm Gareth :)
-## I build accessible websites and make, open source tools for developers
+## I build accessible websites and make open source tools for developers
 
 ## Check out my Portfolio Projects
 ### [GLD Portfolio](https://gld-portfolio.vercel.app/)
