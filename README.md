@@ -9,3 +9,6 @@
 
 ## Check out my Repos
 ### [GLD Repositories](https://github.com/GLD5000?tab=repositories)
+
+## Check out my Gists
+### [GLD Gists](https://gist.github.com/GLD5000)
